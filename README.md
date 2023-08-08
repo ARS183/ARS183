@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ARS183
 - 👀 I’m interested in high-performance iterative solver
-- 🌱 I’m currently learning Julia
+- 🌱 I’m currently using Fortran and learning C++/Julia
 - 💞️ I’m looking to collaborate on parallel scalable solver for Helmholtz equation  
 - 📫 How to reach me j.chen-11@tudelft.nl
 
